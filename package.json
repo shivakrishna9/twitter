@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-tweet",
+  "version": "2.0.0",
+  "description": "A-Z Tweets from #nodejs #mongodb #angularjs #MeanStack #Ionic",
+  "main": "index.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "6.10.3",
+    "npm": "3.8.6"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "bot",
+    "nodejs",
+    "bot",
+    "retweet",
+    "Twitter"
+  ],
+  "author": "Aman Mittal",
+  "bugs": {
+    "url": "https://github.com/amandeepmittal/nodejs-tweet/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandeepmittal/nodejs-tweet.git"
+  },
+  "homepage": "https://github.com/amandeepmittal/nodejs-tweet#readme"
+}
